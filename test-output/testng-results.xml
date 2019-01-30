@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="5113" started-at="2019-01-06T07:35:56Z" finished-at="2019-01-06T07:36:01Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="5113" started-at="2019-01-06T07:35:56Z" finished-at="2019-01-06T07:36:01Z">
+      <class name="AutoIt.YYYY">
+        <test-method status="PASS" signature="main()[pri:0, instance:AutoIt.YYYY@190c9c3]" name="main" duration-ms="5097" started-at="2019-01-06T13:05:56Z" finished-at="2019-01-06T13:06:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- main -->
+      </class> <!-- AutoIt.YYYY -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
